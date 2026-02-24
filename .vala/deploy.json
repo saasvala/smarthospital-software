@@ -1,9 +1,9 @@
 {
-  "deployment_id": "8f13f523-6ace-4541-b3fa-365bd408c05a",
+  "deployment_id": "b849f032-7934-4424-92df-d436b441b4f3",
   "project": "smarthospital-software",
   "environment": "production",
   "branch": "main",
-  "server": "VPS-72.61.236.249",
-  "deployed_at": "2026-02-23T23:53:27.197Z",
+  "server": "SoftwareVala Main",
+  "deployed_at": "2026-02-24T01:27:04.875Z",
   "triggered_by": "VALA AI"
 }
